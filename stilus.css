@@ -1,0 +1,21 @@
+.kiv {
+    background-color: antiquewhite;
+}
+.kutya img hover {
+    background-color: black;
+}
+.kutya img {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    border: solid blue 10px;
+}
+.tartalom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.kutya {
+    width: 400px;
+    margin: 20px;
+}
